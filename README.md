@@ -1,4 +1,4 @@
-<h1 align="center">Luminar Studio Pro version 2.0.7 </h1>
+<h1 align="center">Luminar Studio PRO <h5>version 2.0.7</h5> </h1>
 <h2 align="center">
 
 </h2>
