@@ -1,5 +1,5 @@
 <h1 align="center">Luminar Studio PRO</h1>
-<h4 align="center">version 2.0.7</h4>
+<h4 align="center">Archive password: premium </h4>
 <h2 align="center">
 
 </h2>
