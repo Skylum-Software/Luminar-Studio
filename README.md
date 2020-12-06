@@ -40,3 +40,5 @@
 * RAM - 8 GB or more
 * Disk space - 10 GB free space
 ![alt-текст](https://b.radikal.ru/b40/2012/86/149487124cb5.jpg "Luminar4")
+
+<iframe width="640" height="360" src="https://radikal.ru/vf/51GaW3gsPRS" frameborder="0" scrolling="no" allowfullscreen></iframe>
