@@ -15,7 +15,7 @@
   
 
 -------------
-![alt-текст](https://b.radikal.ru/b08/2012/ff/39b3438fa5fa.jpg "Luminar4")
+![alt-текст](https://b.radikal.ru/b40/2012/86/149487124cb5.jpg "Luminar4")
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
