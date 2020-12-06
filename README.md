@@ -8,7 +8,7 @@
 <p align="center">
   
 ------------
-
+![alt-текст](https://d.radikal.ru/d21/2012/dd/9637a0d464af.jpg "Luminar4")
 ![alt-текст](https://b.radikal.ru/b40/2012/86/149487124cb5.jpg "Luminar4")
 
 ## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
