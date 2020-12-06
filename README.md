@@ -14,16 +14,7 @@
 <p align="center">
   
 
--------------
-![alt-текст](https://b.radikal.ru/b40/2012/86/149487124cb5.jpg "Luminar4")
-# Closed version for promoters.
-### 💻 Only for Windows 7/8/8.1/10
-#### Windows Tech Specs
-* Graphics - Open GL 3.3 or later compatible
-* Processor - Intel Core i5 or better
-* OS - Windows 7 or higher (only x64-bit OS)
-* RAM - 8 GB or more
-* Disk space - 10 GB free space
+------------
 
 ![alt-текст](https://graydonschwartz.com/wp-content/uploads/2019/10/gif_AI-Sky-Replacement_3.gif "Luminar4")
 
@@ -45,5 +36,14 @@
 * Resetting tools is easier with an increased clickable area for each reset button.
 * The History tool is easier to use thanks to a redesigned interface with larger text.
 * The Histogram is more compact, with an improved contrast ratio. This makes it easier to use when editing your photos. If you don’t see the Histogram when editing, you can activate it with the View menu.
-![alt-текст](https://b.radikal.ru/b30/2012/df/1621884398dd.jpg "Luminar Studio")
 
+
+![alt-текст](https://b.radikal.ru/b30/2012/df/1621884398dd.jpg "Luminar Studio")
+# Closed version for promoters.
+### 💻 Only for Windows 7/8/8.1/10
+#### Windows Tech Specs
+* Graphics - Open GL 3.3 or later compatible
+* Processor - Intel Core i5 or better
+* OS - Windows 7 or higher (only x64-bit OS)
+* RAM - 8 GB or more
+* Disk space - 10 GB free space
