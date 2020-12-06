@@ -15,7 +15,7 @@
   
 
 -------------
-![alt-текст](https://b.radikal.ru/b30/2012/df/1621884398dd.jpg "Luminar4")
+![alt-текст](https://d.radikal.ru/d11/2012/0b/3e0d1cf7004a.jpg "Luminar4")
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
@@ -45,5 +45,5 @@
 * Resetting tools is easier with an increased clickable area for each reset button.
 * The History tool is easier to use thanks to a redesigned interface with larger text.
 * The Histogram is more compact, with an improved contrast ratio. This makes it easier to use when editing your photos. If you don’t see the Histogram when editing, you can activate it with the View menu.
-
+![alt-текст](https://b.radikal.ru/b30/2012/df/1621884398dd.jpg "Luminar Studio")
 
