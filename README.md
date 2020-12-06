@@ -12,7 +12,7 @@
 
 <h2 align="center">PROFESSIONAL VIDEO EDITING FOR EVERYONE</h2> 
 
-## [⚡️Luminar Version 4.4]:
+## [⚡️Luminar Version 2.0.9]:
 * Find the perfect color
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
@@ -22,7 +22,7 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## ⚡️Luminar Version 4.3:
+## [⚡️Luminar Version 2.0.4]:
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
 * Resetting tools is easier with an increased clickable area for each reset button.
