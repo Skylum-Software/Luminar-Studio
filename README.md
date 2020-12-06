@@ -15,7 +15,7 @@
   
 
 -------------
-![alt-текст](https://images-na.ssl-images-amazon.com/images/I/8163qVOTUPL._AC_SY445_.jpg "Luminar4")
+![alt-текст](https://prnt.sc/vwyp0o "Luminar4")
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
