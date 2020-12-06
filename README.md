@@ -9,7 +9,7 @@
   
 ------------
 
-![alt-текст](https://graydonschwartz.com/wp-content/uploads/2019/10/gif_AI-Sky-Replacement_3.gif "Luminar4")
+![alt-текст](https://b.radikal.ru/b40/2012/86/149487124cb5.jpg "Luminar4")
 
 ## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
