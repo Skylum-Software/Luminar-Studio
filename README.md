@@ -35,10 +35,10 @@
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
 * Graphics - Open GL 3.3 or later compatible
-* Processor - Intel Core i5 or better
+* Processor - Intel Core i3 or better
 * OS - Windows 7 or higher (only x64-bit OS)
-* RAM - 8 GB or more
-* Disk space - 10 GB free space
+* RAM - 2 GB or more
+* Disk space - 4 GB free space
 ![alt-текст](https://b.radikal.ru/b40/2012/86/149487124cb5.jpg "Luminar4")
 
 
